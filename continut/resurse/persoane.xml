@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<persoane>
+	<persoana id="1">
+		<nume>Popescu</nume>
+		<prenume>Ion</prenume>
+		<varsta>23</varsta>
+		<adresa>
+			<strada>Str Ciurchi</strada>
+			<numar>121</numar>
+			<localitate>Iasi</localitate>
+			<judet>Iasi</judet>
+			<tara>Romania</tara>
+		</adresa>
+		<sex>masculin</sex>
+		<cnp>6005247895632</cnp>
+		<email>popescu.ion@gmail.com</email>
+	</persoana>
+	<persoana id="2">
+		<nume>Popa</nume>
+		<prenume>Alex</prenume>
+		<varsta>24</varsta>
+		<adresa>
+			<strada>Str Parcului</strada>
+			<numar>8</numar>
+			<localitate>Husi</localitate>
+			<judet>Vaslui</judet>
+			<tara>Romania</tara>
+		</adresa>
+		<sex>masculin</sex>
+		<cnp>60055244685632</cnp>
+		<email>popa.alex@gmail.com</email>
+	</persoana>
+	<persoana id="3">
+		<nume>Frunza</nume>
+		<prenume>Elena</prenume>
+		<varsta>21</varsta>
+		<adresa>
+			<strada>Str Soarelui</strada>
+			<numar>13</numar>
+			<localitate>Barlad</localitate>
+			<judet>Vaslui</judet>
+			<tara>Romania</tara>
+		</adresa>
+		<sex>feminin</sex>
+		<cnp>6020789563214</cnp>
+		<email>elena.frunza@gmail.com</email>
+	</persoana>
+	<persoana id="4">
+		<nume>Pop</nume>
+		<prenume>Sara</prenume>
+		<varsta>25</varsta>
+		<adresa>
+			<strada>Bd. Alexandru cel Bun</strada>
+			<numar>12</numar>
+			<localitate>Iasi</localitate>
+			<judet>Iasi</judet>
+			<tara>Romania</tara>
+		</adresa>
+		<sex>feminin</sex>
+		<cnp>6020247895632</cnp>
+		<email>sara.pop@gmail.com</email>
+	</persoana>
+	<persoana id="5">
+		<nume>Varga</nume>
+		<prenume>Mirela</prenume>
+		<varsta>24</varsta>
+		<adresa>
+			<strada>Str Dulcinella</strada>
+			<numar>18</numar>
+			<localitate>Tomesti</localitate>
+			<judet>Iasi</judet>
+			<tara>Romania</tara>
+		</adresa>
+		<sex>feminin</sex>
+		<cnp>6020247465563</cnp>
+		<email>varga.mirela@gmail.com</email>
+	</persoana>
+</persoane>

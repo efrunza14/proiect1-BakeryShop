@@ -1,0 +1,248 @@
+body {
+  background-size: cover;
+  text-align: center;
+}
+
+.body1 {
+  background-image: url(../imagini/fundal3.jpg);
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+  font-size: 25px;
+
+}
+
+nav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 450px;
+  margin-right: 450px;
+  /*background: #8bd7fd;*/
+}
+
+/*culoarea scrisul butonelor*/
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  padding: 20px 14px;
+
+}
+
+/*culoarea scrisului cand trec peste*/
+a:hover {
+  background-color: #4e62b9;
+  border-radius: 25px;
+}
+
+input,
+select,
+textarea {
+  width: 250px;
+  height: 30px;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  resize: vertical;
+  background-color: #ffffff;
+}
+
+.check {
+  width: 30px;
+}
+
+* {
+  margin: 0;
+}
+
+main {
+  margin: 60px;
+}
+
+.box {
+  box-shadow: 0 3px 60px rgba(99, 18, 192, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 7%;
+}
+
+.boxy {
+  box-shadow: 0 3px 30px rgb(0 0 0 / 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+  margin-right: 300px;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+}
+
+.boxy2 {
+  box-shadow: 0 3px 30px rgb(0 0 0 / 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 700px;
+  margin-right: 300px;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+  transform: rotate(20deg);
+}
+
+.boxy3 {
+  box-shadow: 0 3px 30px rgb(0 0 0 / 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+  margin-right: 300px;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+  transform: rotate(-20deg);
+}
+
+.boxy4 {
+  box-shadow: 0 3px 30px rgb(0 0 0 / 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 700px;
+  margin-right: 300px;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+  transform: rotate(20deg);
+}
+
+.boxy5 {
+  box-shadow: 0 3px 30px rgb(0 0 0 / 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+  margin-right: 300px;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+  transform: rotate(-20deg);
+}
+
+th,
+td {
+  border-style: solid;
+  border-color: #3f042e;
+}
+
+tr:hover {
+  background-color: #c37883;
+  border-radius: 25px;
+}
+
+
+section {
+  display: flex;
+  justify-content: space-between;
+}
+
+article {
+  flex: 2;
+  width: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.article1 {
+  flex: 1;
+  width: auto;
+  text-align: center;
+  padding: 5px;
+}
+
+.div:hover {
+  background-color: #c37883;
+  border-radius: 15px;
+}
+
+.index0 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.index2 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.index1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+.a1:hover {
+  background-color: #c37883;
+  border-radius: 25px;
+}
+
+.cen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+
+}
+
+/*Javascript pt script */
+
+/*Sectiunea 1*/
+.c1 {
+  font-size: 20px;
+  width: 50%;
+  box-shadow: 0 3px 30px rgb(0 0 0 / 0.2);
+  margin: 25px;
+  display: inline-block;
+}
+
+#data {
+  font-size: 30px;
+  color: rgb(0, 70, 145);
+}
+
+#url {
+  font-size: 30px;
+  color: rgb(0, 70, 145);
+}
+
+#browser {
+  font-size: 30px;
+  color: rgb(0, 70, 145);
+}
+
+.sectiunea1 {
+  width: 97%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/*Sectiunea2*/
+#canva1 {
+  height: 200px;
+  border: 1px solid #66a1ff;
+  background-color: white;
+}
